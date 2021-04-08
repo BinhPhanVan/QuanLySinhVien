@@ -1,0 +1,11 @@
+E:\.NET19.11\BT02\BT02_102190153_PhanVanBinh\BT02_102190153_PhanVanBinh\bin\Debug\BT02_102190153_PhanVanBinh.exe.config
+E:\.NET19.11\BT02\BT02_102190153_PhanVanBinh\BT02_102190153_PhanVanBinh\bin\Debug\BT02_102190153_PhanVanBinh.exe
+E:\.NET19.11\BT02\BT02_102190153_PhanVanBinh\BT02_102190153_PhanVanBinh\bin\Debug\BT02_102190153_PhanVanBinh.pdb
+E:\.NET19.11\BT02\BT02_102190153_PhanVanBinh\BT02_102190153_PhanVanBinh\obj\Debug\BT02_102190153_PhanVanBinh.Form1.resources
+E:\.NET19.11\BT02\BT02_102190153_PhanVanBinh\BT02_102190153_PhanVanBinh\obj\Debug\BT02_102190153_PhanVanBinh.Form2.resources
+E:\.NET19.11\BT02\BT02_102190153_PhanVanBinh\BT02_102190153_PhanVanBinh\obj\Debug\BT02_102190153_PhanVanBinh.Properties.Resources.resources
+E:\.NET19.11\BT02\BT02_102190153_PhanVanBinh\BT02_102190153_PhanVanBinh\obj\Debug\BT02_102190153_PhanVanBinh.csproj.GenerateResource.cache
+E:\.NET19.11\BT02\BT02_102190153_PhanVanBinh\BT02_102190153_PhanVanBinh\obj\Debug\BT02_102190153_PhanVanBinh.csproj.CoreCompileInputs.cache
+E:\.NET19.11\BT02\BT02_102190153_PhanVanBinh\BT02_102190153_PhanVanBinh\obj\Debug\BT02_102190153_PhanVanBinh.exe
+E:\.NET19.11\BT02\BT02_102190153_PhanVanBinh\BT02_102190153_PhanVanBinh\obj\Debug\BT02_102190153_PhanVanBinh.pdb
+E:\.NET19.11\BT02\BT02_102190153_PhanVanBinh\BT02_102190153_PhanVanBinh\obj\Debug\BT02_102190153_PhanVanBinh.csprojAssemblyReference.cache
